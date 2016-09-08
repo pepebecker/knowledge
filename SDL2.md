@@ -4,10 +4,10 @@
 | Framework  | Download Link                                              |
 |------------|------------------------------------------------------------|
 | SDL2       | [Download](http://libsdl.org/release/)                     |
-| SDL2_image | [Download](http://libsdl.org/projects/SDL2_image/release/) |
-| SDL2_mixer | [Download](http://libsdl.org/projects/SDL2_mixer/release/) |
-| SDL2_net   | [Download](http://libsdl.org/projects/SDL2_net/release/)   |
-| SDL2_ttf   | [Download](http://libsdl.org/projects/SDL2_ttf/release/)   |
+| SDL2_image | [Download](http://libsdl.org/projects/SDL_image/release/) |
+| SDL2_mixer | [Download](http://libsdl.org/projects/SDL_mixer/release/) |
+| SDL2_net   | [Download](http://libsdl.org/projects/SDL_net/release/)   |
+| SDL2_ttf   | [Download](http://libsdl.org/projects/SDL_ttf/release/)   |
 
 
 ## Create the ~/Library/Frameworks Directory
