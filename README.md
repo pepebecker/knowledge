@@ -1,3 +1,3 @@
 # Knowledge
 
-[SDL 2 on OS X Mavericks](SDL2.md)
+[SDL2 on OS X Mavericks and above](SDL2.md)
