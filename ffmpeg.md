@@ -13,12 +13,12 @@ ffmpeg -i input.mov -acodec copy -vcodec copy output.mp4
 ffmpeg -i input.mp4 -vf "transpose=1" output.mp4
 ```
 
-> For the transpose parameter you can pass:
-> 
-> 0 = 90 Counter Clockwise and Vertical Flip (default)
-> 1 = 90 Clockwise
-> 2 = 90 Counter Clockwise
-> 3 = 90 Clockwise and Vertical Flip
+For the transpose parameter you can pass:
+
+0 = 90 Counter Clockwise and Vertical Flip (default)
+1 = 90 Clockwise
+2 = 90 Counter Clockwise
+3 = 90 Clockwise and Vertical Flip
 
 ## Get Resolution of Video
 
